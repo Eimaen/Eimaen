@@ -9,6 +9,7 @@
   </a>
     </ul>
   </div>
+  <hr>
   
   <h3>I am</h3>
   <div>
