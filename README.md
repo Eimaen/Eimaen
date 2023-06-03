@@ -81,7 +81,3 @@
     </ul>
   </div>
   <h3 align="center">Thanks for visiting my profile! Have a nice day 🥳</h3>
-  <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eimaen&theme=github" alt="Stats">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Eimaen&theme=github" alt="Stats">
-  </div>
