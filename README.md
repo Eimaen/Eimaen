@@ -13,7 +13,7 @@
   
   <h3>I am</h3>
   <div>
-    <a>Yuriy, also known as Eimaen, software developer, like open-source and 4-space indentations. Mainly use C#, Node.js, C++ or whatever I need (if this whatever has docs). Curious and kind person, almost unable to say "no", hate those who try to exploit it. Speak RU, EN, C#. Feel free to ask anything about my repos on Discord.</a>
+    <a>Yuriy, also known as Eimaen, software developer, likes open-source and 4-space indentations. Human being. Speaks RU, EN, DE.</a>
   </div>
   <h3>I use</h3>
   <div>
