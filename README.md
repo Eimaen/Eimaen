@@ -13,7 +13,7 @@
   
   <h3>I am</h3>
   <div>
-    <a>Yuriy, also known as Eimaen, software developer, likes open-source and 4-space indentations. Human being. Speaks RU, EN, DE.</a>
+    <a>Yuriy, also known as Eimaen, software developer, likes open-source and субмаринас. Human being. Speaks RU, EN, DE.</a>
   </div>
   <h3>I use</h3>
   <div>
