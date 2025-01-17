@@ -5,7 +5,6 @@
     <ul>
       <summary><h1 style="display: inline-block;">Eimaen's Profile! 👋 <img height="20px" src="https://komarev.com/ghpvc/?username=Eimaen&label=Visitors&color=blueviolet" alt="Stats"> <a href="https://ko-fi.com/B0B4M85E7"><img height="20px" src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi"></a></h1></summary>
       <a align="center">
-    <a href="https://www.musixmatch.com/profile/3vUCAAcbYQFeAAetm3M11eet3SsmVMv5fTNZI9ISx7Ciks_s45mz2z5Xzwnu2Y5z8Unq7fJxTVBrMor087N93dcLwFutVMEjagYYo1QVgTylekBylHBSJ_jzrYXfOOL24rw0gXKBCvrxGXYwhnzdkD5eWJU">Musixmatch</a> • <a href="https://shikimori.one/Eimaen">Shikimori</a> • <a href="https://steamcommunity.com/id/eimaen/">Steam</a> • <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">HentaiHaven</a> • <a href="https://gist.github.com/Eimaen">Gists</a> • <a href="https://t.me/eimaen">Telegram</a> • <a href="https://vk.com/voidinc">VK</a> • <a href="https://discord.gg/jz7XnfDE7j">Discord</a>
   </a>
     </ul>
   </div>
@@ -13,7 +12,7 @@
   
   <h3>I am</h3>
   <div>
-    <a>Yuriy, also known as Eimaen, software developer, likes open-source and субмаринас. Human being. Speaks RU, EN, DE.</a>
+    <a>Yuriy, also known as Eimaen, software developer, likes open-source and субмаринас. Human being. Speak RU, EN, DE.</a>
   </div>
   <h3>I use</h3>
   <div>
